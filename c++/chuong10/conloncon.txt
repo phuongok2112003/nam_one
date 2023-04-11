@@ -1,0 +1,2 @@
+So hoc sinh ten 'Trung' hanh kiem 'TB' : 1
+So hoc sinh ten 'Anh' co diem trung binh>8.0 la : 1
